@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root{
+  --primaryColor: #A5F2F3;
+  --secondaryColor: #74a8aa;
+  --lightColor: #ebfeff;
+  --cyan: #d6feff;
+  --black: #000;
+  --white: #fff;
+  --purple-900: #7481aa;
+  --purple-200: #a6b8f3;
+  --yellow-900: #aaa074;
+  --yellow-200: #f3e4a5;
+  --pink-900: #aa749b;
+  --pink-200: #f3a5de;
+  --gray-900: #333;
+  --gray-700: #555;
+  --gray-600: #888;
+  --gray-200: #CCC;
+  --gray-100: #EEE;
+}
